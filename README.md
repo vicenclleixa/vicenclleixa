@@ -1,7 +1,4 @@
-
-
 # 🤓 Hello, I'm Vicenç!
-#### “If you wanna go fast, go alone. If you wanna go far, go together.”
 
 ### Some info about me:
 #### 🛒I aim to apply solutions to the Fast-Moving Consumer Goods industry.
