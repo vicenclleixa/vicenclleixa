@@ -1,16 +1,20 @@
 
 
-# Vicenç Lleixà Esteller
+# 🤓 Hello, I'm Vicenç!
 ## Data Science and Business Analytics student
-## 📍Barcelona, Spain
 
 ### About Me:
+#### 🛒I aim to apply solutions to the Fast-Moving Consumer Goods industry!
+#### 🖥️Currently studying Data Science and Business Analytics.
+#### 🫡Open to collaborative projects involving models, analyses, and visualizations 
+#### 💯Excited to engage in teamwork to create impactful and insightful outcomes.
 
-#### I am passionate about data, technology, sales management and visualization.
-#### I am learning and perfecting my skills in Data Science so I can apply it to the 💡Fast-Moving Consumer Goods industry!
-#### The main programming languages and software I have used: Python, R, Hubspot CRM, SAP ERP, Excel, and Git.
+### Tech Toolbox: 
+- Programming Languages: Python, R
+- Libraries: Numpy, Pandas, Matplotlib, Seaborn, Tidyverse
+- Development tools: VS Code, Jupyter, Anaconda, Git
+- Softwares: Hubspot, SAP ERP, Excel, Dynamics
 
-#### I am open to collaborations on projects related to data and sales, or any business-related initiative.
 #### Feel free to contact :)
 #### - https://www.linkedin.com/in/vicenclleixa/
 #### - cuatrouvesofficial@gmail.com
