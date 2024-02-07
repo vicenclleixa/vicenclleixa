@@ -5,8 +5,6 @@
 #### 🖥️Currently studying Data Science and Business Analytics.
 #### 💡Keen interest in Sports, Psichology, Movies and Chess!
 
-#### 💯Excited to engage in teamwork to create impactful and insightful outcomes.
-
 ### My Tech Toolbox: 
 - Programming Languages: Python, R
 - Libraries: Numpy, Pandas, Matplotlib, Seaborn, Tidyverse
