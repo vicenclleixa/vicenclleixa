@@ -1,9 +1,9 @@
-👋 Hello, I am Vicenç Lleixà Esteller, a Data Science and Business Analysis student based in Barcelona, Spain. 
+👋 -Hello, I am Vicenç Lleixà Esteller, a Data Science and Business Analysis student based in Barcelona, Spain. 
 I am passionate about technology, sales management, and everything related to business. 
 
-🌱 I am learning and perfecting my skills in Data Science and Business Analysis, conducting studies in this area. 
-The main programming languages and softwares I have used: Python, R, Hubspot CRM, SAP ERP, Excel, and Git.
-I am open to collaborations on projects that address exciting challenges in the field of technology, sales, or any business-related initiative. 
+🌱 -I am learning and perfecting my skills in Data Science and Business Analysis, conducting studies in this area. 
+-The main programming languages and softwares I have used: Python, R, Hubspot CRM, SAP ERP, Excel, and Git.
+-I am open to collaborations on projects that address exciting challenges in the field of technology, sales, or any business-related initiative. 
 
 📫 Feel free to contact me: 
 https://www.linkedin.com/in/vicenclleixa/
