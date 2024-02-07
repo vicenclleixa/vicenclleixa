@@ -1,6 +1,6 @@
 
 ```
-👋 - Hello, I am Vicenç Lleixà Esteller, a Data Science and Business Analysis student based in Barcelona, Spain. 
+👋 - Hello, I am Vicenç Lleixà Esteller, a Data Science and **Business Analytics** student based in Barcelona, Spain. 
 - I am passionate about technology, sales management, and everything related to business. 
 
 🌱 - I am learning and perfecting my skills in Data Science and Business Analysis, conducting studies in this area. 
