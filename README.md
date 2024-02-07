@@ -5,8 +5,10 @@ I am passionate about technology, sales management, and everything related to bu
 The main programming languages and softwares I have used: Python, R, Hubspot CRM, SAP ERP, Excel, and Git.
 I am open to collaborations on projects that address exciting challenges in the field of technology, sales, or any business-related initiative. 
 
-📫 If you want to contact me, you can do so through my email: 
-cuatrouvesofficial@gmail.com or my LinkedIn profile: https://www.linkedin.com/in/vicenclleixa/
+📫 Feel free to contact me: 
+https://www.linkedin.com/in/vicenclleixa/
+cuatrouvesofficial@gmail.com
+
 
 <!---
 vicenclleixa/vicenclleixa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
