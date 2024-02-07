@@ -1,7 +1,8 @@
 
 
-## Vicenç Lleixà Esteller, Barcelona
+# Vicenç Lleixà Esteller
 ## Data Science and Business Analytics student
+## Based in Barcelona, Spain
 
 #### I am passionate about data, technology, sales management and visualization.
 #### I am learning and perfecting my skills in Data Science so I can apply it to the 💡Fast-Moving Consumer Goods industry!
