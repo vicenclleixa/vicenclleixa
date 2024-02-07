@@ -1,20 +1,22 @@
 
 
 # 🤓 Hello, I'm Vicenç!
-## Data Science and Business Analytics student
+### “If you wanna go fast, go alone. If you wanna go far, go together.”
 
-### About Me:
-#### 🛒I aim to apply solutions to the Fast-Moving Consumer Goods industry!
+### Some info about me:
+#### 🛒I aim to apply solutions to the Fast-Moving Consumer Goods industry.
 #### 🖥️Currently studying Data Science and Business Analytics.
-#### 🫡Open to collaborative projects involving models, analyses, and visualizations 
+#### 💡Keen interest in Sports, Psichology, Movies and Chess!
+
 #### 💯Excited to engage in teamwork to create impactful and insightful outcomes.
 
-### Tech Toolbox: 
+### My Tech Toolbox: 
 - Programming Languages: Python, R
 - Libraries: Numpy, Pandas, Matplotlib, Seaborn, Tidyverse
 - Development tools: VS Code, Jupyter, Anaconda, Git
 - Softwares: Hubspot, SAP ERP, Excel, Dynamics
 
+#### 🫡Open to projects involving models, analyses, and visualizations...
 #### Feel free to contact :)
 #### - https://www.linkedin.com/in/vicenclleixa/
 #### - cuatrouvesofficial@gmail.com
