@@ -1,7 +1,7 @@
 
 
 # 🤓 Hello, I'm Vicenç!
-### “If you wanna go fast, go alone. If you wanna go far, go together.”
+#### “If you wanna go fast, go alone. If you wanna go far, go together.”
 
 ### Some info about me:
 #### 🛒I aim to apply solutions to the Fast-Moving Consumer Goods industry.
@@ -16,7 +16,7 @@
 - Development tools: VS Code, Jupyter, Anaconda, Git
 - Softwares: Hubspot, SAP ERP, Excel, Dynamics
 
-#### 🫡Open to projects involving models, analyses, and visualizations...
+### 🫡Open to projects involving models, analyses, and visualizations...
 #### Feel free to contact :)
 #### - https://www.linkedin.com/in/vicenclleixa/
 #### - cuatrouvesofficial@gmail.com
