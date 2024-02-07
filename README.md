@@ -5,7 +5,7 @@
 #### I am learning and perfecting my skills in Data Science so I can apply it to the 💡Fast-Moving Consumer Goods industry
 #### The main programming languages and software I have used: Python, R, Hubspot CRM, SAP ERP, Excel, and Git.
 
-#### 👍I am **open to collaborations** on projects that address exciting challenges in the field of data, sales, or any business-related initiative!
+#### I am **open to collaborations** on projects that address exciting challenges in the field of data, sales, or any business-related initiative!
 
 #### Feel free to **contact** me: 
 #### - https://www.linkedin.com/in/vicenclleixa/
