@@ -1,9 +1,9 @@
 # 🤓 Hello, I'm Vicenç!
 
 ### Some info about me:
-#### 🖥️Currently studying Data Science and Business Analytics.
-#### 🛒I aim to apply solutions to the Fast-Moving Consumer Goods industry.
-#### 💡Keen interest in Sports, Psychology, Movies and Chess!
+#### -Currently studying Data Science and Business Analytics.
+#### -I aim to apply solutions to the Fast-Moving Consumer Goods industry.
+### 🤟-Technology and Business' symbiosis fuels my enthusiasm for learning!
 
 ### 🛠️My Tech Toolbox: 
 - Programming Languages: Python, R
@@ -12,7 +12,7 @@
 - Softwares: Hubspot, SAP ERP, Excel, SSC, Dynamics
 
 ### 🫡Open to projects involving models, analyses, and visualizations...
-#### Feel free to contact :)
+#### Feel free to contact:
 #### - https://www.linkedin.com/in/vicenclleixa/
 #### - cuatrouvesofficial@gmail.com
 
