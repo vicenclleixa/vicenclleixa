@@ -3,7 +3,7 @@
 ### Some info about me:
 #### 🛒I aim to apply solutions to the Fast-Moving Consumer Goods industry.
 #### 🖥️Currently studying Data Science and Business Analytics.
-#### 💡Keen interest in Sports, Psichology, Movies and Chess!
+#### 💡Keen interest in Sports, Psychology, Movies and Chess!
 
 ### 🛠️My Tech Toolbox: 
 - Programming Languages: Python, R
