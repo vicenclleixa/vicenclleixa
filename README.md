@@ -1,8 +1,8 @@
 # 🤓 Hello, I'm Vicenç!
 
 ### Some info about me:
-#### 🛒I aim to apply solutions to the Fast-Moving Consumer Goods industry.
 #### 🖥️Currently studying Data Science and Business Analytics.
+#### 🛒I aim to apply solutions to the Fast-Moving Consumer Goods industry.
 #### 💡Keen interest in Sports, Psychology, Movies and Chess!
 
 ### 🛠️My Tech Toolbox: 
