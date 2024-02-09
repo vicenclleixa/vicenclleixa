@@ -9,7 +9,7 @@
 - Programming Languages: Python, R
 - Libraries: Numpy, Pandas, Matplotlib, Seaborn, Tidyverse
 - Development tools: VS Code, Jupyter, Anaconda, Git
-- Softwares: Hubspot, SAP ERP, Excel, Dynamics
+- Softwares: Hubspot, SAP ERP, Excel, SSC, Dynamics
 
 ### 🫡Open to projects involving models, analyses, and visualizations...
 #### Feel free to contact :)
