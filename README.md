@@ -1,9 +1,6 @@
-# 🤓 Hello, I'm Vicenç!
+# 🤓Hello, I'm Vicenç!
 
-### Some info about me:
-#### -Currently studying Data Science and Business Analytics.
-#### -I aim to apply solutions to the Fast-Moving Consumer Goods industry.
-### 🤟-Technology and Business' symbiosis fuels my enthusiasm for learning!
+As a current student pursuing a **Master in Data Science and Business Analytics**, I am passionate about leveraging data-driven insights to drive impactful solutions and models. **Technology and Business' symbiosis** fuels my enthusiasm for learning. My focus lies in the **Fast-Moving Consumer Goods (FMCG) industry**. Beyond my academic pursuits, I lose myself watching movies and informing myself about Psychology. I am a **teamwork believer**.
 
 ### 🛠️My Tech Toolbox: 
 - Programming Languages: Python, R
