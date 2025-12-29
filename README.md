@@ -1,12 +1,12 @@
 # 👋Hello, I'm Vicenç!
 
-As a current student pursuing a **Master in Data Science and Business Analytics**, I am passionate about leveraging data-driven insights to drive impactful solutions and models. **Technology and Business' symbiosis** fuels my enthusiasm for learning. Beyond my academic pursuits, I lose myself watching movies and informing myself about Psychology. I am a **teamwork believer**.
+I’m a Business Analyst passionate about turning data into insights that drive better business decisions. I enjoy working at the intersection of technology and business, translating complex data into clear, impactful solutions.
 
 ### 🛠️My Tech Toolbox: 
 - Programming Languages: Python, R, SQL
-- Libraries: Numpy, Pandas, Scikit-learn, Seaborn
-- Development tools: VS Code, Jupyter, Anaconda, Git
-- Softwares: Excel, PowerBI, Power Query
+- Libraries: Numpy, Pandas, Scikit-learn
+- Development tools: VS Code, Jupyter, Anaconda
+- Softwares: PowerBI, Excel, Power Query
   
 ### 🫡Open to projects involving models, analyses, and visualizations...
 #### Feel free to contact:
