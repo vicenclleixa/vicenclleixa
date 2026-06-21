@@ -7,9 +7,7 @@ I’m a Business Analyst, I work at the intersection of technology and business.
 - Libraries: Numpy, Pandas, Scikit-learn
 - Development tools: VS Code, Jupyter, Anaconda
 - Softwares: PowerBI, Power Query, Fabric
-  
-### 🫡Open to projects involving models, analyses, and visualizations...
-#### Feel free to contact:
+
 #### - https://www.linkedin.com/in/vicenclleixa/
 #### - vicenclleixa@gmail.com
 
