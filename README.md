@@ -1,12 +1,12 @@
 # 👋Hello, I'm Vicenç!
 
-I’m a Business Analyst passionate about turning data into insights that drive better business decisions. I enjoy working at the intersection of technology and business, translating complex data into clear, impactful solutions.
+I’m a Business Analyst, I work at the intersection of technology and business.
 
 ### 🛠️My Tech Toolbox: 
-- Programming Languages: Python, R, SQL
+- Programming Languages: Python
 - Libraries: Numpy, Pandas, Scikit-learn
 - Development tools: VS Code, Jupyter, Anaconda
-- Softwares: PowerBI, Excel, Power Query
+- Softwares: PowerBI, Power Query, Fabric
   
 ### 🫡Open to projects involving models, analyses, and visualizations...
 #### Feel free to contact:
